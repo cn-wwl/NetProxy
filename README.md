@@ -4,8 +4,7 @@
 
 适用于 远程电脑与目标服务器无法连通，但是二者与中间服务器连通，该项目可以在中间服务器部署，实现的代理工具。
 
-![](C:\Users\long\Downloads\Net代理.png)
-
+![Net代理](https://github.com/cn-wwl/NetProxy/assets/40258127/006ad3bc-ec35-4aad-a151-43733fbd6704)
 
 
 #### 背景
