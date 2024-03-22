@@ -1,0 +1,15 @@
+server:
+  port: 6676
+
+# 代理服务器
+proxy:
+    # 代理服务端口
+    port: 6677
+    # tcp/udp
+    protocol: udp
+
+# 目标服务器 地址
+target:
+  ip: 10.11.100.15
+  port: 5555
+
